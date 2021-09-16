@@ -1,4 +1,4 @@
-hoisted at https://adoring-meitner-8536a1.netlify.app/
+hosted at https://news-alan.netlify.app/
 
 # Getting Started with Create React App
 
